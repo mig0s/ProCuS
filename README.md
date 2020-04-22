@@ -1,4 +1,4 @@
-# Procrastimation Cure System
+# Procrastination Cure System
 
 The system was developed as the Final Project of my Higher Diploma. MySQL was used as a database for this project.
 
